@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# About me
+#### About me
 - 🎓 Study Computer Science at SJSU
 - 😋 Always strive to learn and broaden my abilities
 - 😄 Speak Vietnamese and English

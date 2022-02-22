@@ -3,7 +3,7 @@
 #### About me
 - 🎓 Study Computer Science at SJSU
 - 😋 Always strive to learn and broaden my abilities
-- 😄 Speak Vietnamese and English
+- 😄 Speak English and Vietnamese
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nhien-lam/)
 
 
